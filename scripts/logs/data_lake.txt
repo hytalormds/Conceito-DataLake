@@ -1,0 +1,12 @@
+2026-10-03 13:50:59 - INFO - Aplicação iniciada.
+2026-10-03 13:50:59 - WARNING - Este é um aviso.
+2026-10-03 13:50:59 - ERROR - Ocorreu um erro.
+2026-10-03 13:50:59 - INFO - Aplicação finalizada.
+2026-10-03 14:04:13 - INFO - Aplicação iniciada.
+2026-10-03 14:04:13 - INFO - Verificação arquivo de origem.
+2026-10-03 14:04:13 - ERROR - Arquivo não encontrado: data/ecommerce_orders_dirty.csv
+2026-10-03 14:04:13 - INFO - Verificação finalizada.
+2026-10-03 14:12:01 - INFO - Aplicação iniciada.
+2026-10-03 14:12:01 - INFO - Verificando arquivo de origem.
+2026-10-03 14:12:01 - ERROR - Arquivo não encontrado: data\ecommerce_orders_dirty.csv
+2026-10-03 14:12:01 - INFO - Processamento encerrado.

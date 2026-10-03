@@ -1,0 +1,8 @@
+2026-10-03 14:32:41 - INFO - Aplicacao iniciada.
+2026-10-03 14:32:41 - INFO - Verificando arquivo de origem.
+2026-10-03 14:32:41 - INFO - Nome do arquivo: ecommerce_orders_dirty.csv
+2026-10-03 14:32:41 - INFO - Origem: c:\Users\hytal\Desktop\DataLake\data\ecommerce_orders_dirty.csv
+2026-10-03 14:32:41 - INFO - Data da ingestao: 2026-10-03 14:32:41
+2026-10-03 14:32:41 - INFO - Arquivo copiado para Bronze: c:\Users\hytal\Desktop\DataLake\lake\bronze\ecommerce\ecommerce_orders_dirty.csv
+2026-10-03 14:32:41 - INFO - Ingestao concluida com sucesso.
+2026-10-03 14:32:41 - INFO - Aplicacao finalizada.
